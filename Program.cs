@@ -56,7 +56,7 @@ namespace CleanTempProgram
             }
         }
 
-        public class Count
+        private class Count
         {
             public int nCountO { get; set; }
             public int nCountX { get; set; }
