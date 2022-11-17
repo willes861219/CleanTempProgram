@@ -1,0 +1,13 @@
+D:\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\RecursionSum.exe
+D:\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\RecursionSum.deps.json
+D:\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\RecursionSum.runtimeconfig.json
+D:\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\RecursionSum.runtimeconfig.dev.json
+D:\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\RecursionSum.dll
+D:\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\RecursionSum.pdb
+D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\RecursionSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\RecursionSum.AssemblyInfoInputs.cache
+D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\RecursionSum.AssemblyInfo.cs
+D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\RecursionSum.csproj.CoreCompileInputs.cache
+D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\RecursionSum.dll
+D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\RecursionSum.pdb
+D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\RecursionSum.genruntimeconfig.cache
