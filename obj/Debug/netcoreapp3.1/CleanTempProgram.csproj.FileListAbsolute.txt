@@ -11,3 +11,17 @@ D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram
 D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.dll
 D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.pdb
 D:\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.genruntimeconfig.cache
+D:\willis\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\CleanTempProgram.exe
+D:\willis\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\CleanTempProgram.deps.json
+D:\willis\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\CleanTempProgram.runtimeconfig.json
+D:\willis\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\CleanTempProgram.runtimeconfig.dev.json
+D:\willis\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\CleanTempProgram.dll
+D:\willis\Code\willes_Project\CleanTempProgram\bin\Debug\netcoreapp3.1\CleanTempProgram.pdb
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.csproj.AssemblyReference.cache
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.AssemblyInfoInputs.cache
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.AssemblyInfo.cs
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.csproj.CoreCompileInputs.cache
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.dll
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.pdb
+D:\willis\Code\willes_Project\CleanTempProgram\obj\Debug\netcoreapp3.1\CleanTempProgram.genruntimeconfig.cache

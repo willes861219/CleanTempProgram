@@ -20,16 +20,16 @@ namespace CleanTempProgram
 
             /// 取得使用者名稱、Temp路徑
             string UserName = Environment.UserName;
-            string pTempDir = $@"C:\Users\{UserName}\AppData\Local\Temp";
+            string TempDir = $@"C:\Users\{UserName}\AppData\Local\Temp";
 
             /// 垃圾資料
-            //string[] files = Directory.GetFiles(pTempDir);
+            //string[] files = Directory.GetFiles(TempDir);
             Count count = new Count();
-            DirSearch(pTempDir, count);
+            DirSearch(TempDir, count);
             Console.WriteLine
                (
                "--------------------------------------------------------------------------- \n" +
-               $"成功刪除 { count.nCountO.ToString()} 筆暫存資料 | { count.nCountX.ToString()} 筆還在使用中無法刪除 \n" +
+               $"成功刪除 { count.CountTrue} 筆暫存資料 | { count.CountFalse} 筆還在使用中無法刪除 \n" +
                "--------------------------------------------------------------------------- "
                );
             Console.ReadKey();
@@ -44,12 +44,12 @@ namespace CleanTempProgram
                     {
                         File.Delete(f);
                         Console.WriteLine($@"成功刪除 : {Path.GetFileName(f)}");
-                        count.nCountO += 1;
+                        count.CountTrue += 1;
                     }
                     catch (Exception e)
                     {
                         Console.WriteLine($@"無法刪除 : {Path.GetFileName(f)}");
-                        count.nCountX += 1;
+                        count.CountFalse += 1;
                     }
                 }
                 DirSearch(d, count);
@@ -58,8 +58,8 @@ namespace CleanTempProgram
 
         private class Count
         {
-            public int nCountO { get; set; }
-            public int nCountX { get; set; }
+            public int CountTrue { get; set; }
+            public int CountFalse { get; set; }
         }
     }
 }
